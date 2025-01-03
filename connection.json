@@ -1,0 +1,9 @@
+{
+  "account"   : "XXXXXXX.ap-northeast-1.aws",
+  "user"      : "",
+  "password"  : "",
+  "role"      : "ACCOUNTADMIN",
+  "warehouse" : "DASH_L",
+  "database"  : "DASH_DB",
+  "schema"    : "DASH_SCHEMA"
+}
